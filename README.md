@@ -33,3 +33,9 @@ family
 genus
 
 species
+
+## 📊 Example Output
+
+Below is an example barplot generated from a MetaPhlAn profile at **order level**:
+
+![Class-level barplot](examples/class.png)
