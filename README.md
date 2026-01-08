@@ -36,6 +36,6 @@ species
 
 ## 📊 Example Output
 
-Below is an example barplot generated from a MetaPhlAn profile at **order level**:
+Below is an example barplot generated from a MetaPhlAn profile at **class level**:
 
 ![Class-level barplot](examples/class.png)
